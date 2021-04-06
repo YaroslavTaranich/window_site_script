@@ -1,2 +1,4 @@
 node_modules
-src
+src/assets
+src/index.html
+.jshintrc
